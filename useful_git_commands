@@ -4,3 +4,12 @@ mkdir											Make Directory
 cd 												Change Directory
 ls -la											Show files
 git clone URL name								Clone/Copy to local
+.md 											Markdown File
+git status										Status of Git
+git add FILENAME								Adds File (Staging)
+git commit -m "users message"					Commit(Part of staging)
+git push origin main							Pushes onto cloud
+git diff FILENAME								shows changes
+
+This is a test
+
