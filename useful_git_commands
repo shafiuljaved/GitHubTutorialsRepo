@@ -11,5 +11,4 @@ git commit -m "users message"					Commit(Part of staging)
 git push origin main							Pushes onto cloud
 git diff FILENAME								shows changes
 
-This is a test
 
