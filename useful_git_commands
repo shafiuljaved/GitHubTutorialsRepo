@@ -1,0 +1,6 @@
+Useful Bash commands for GIT:
+
+mkdir											Make Directory
+cd 												Change Directory
+ls -la											Show files
+git clone URL name								Clone/Copy to local
